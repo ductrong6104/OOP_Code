@@ -56,4 +56,4 @@ Node* SList::CreateNode(Item v)
 	p->next = NULL;	
 	return p; 
 }
-
+}
