@@ -1,6 +1,4 @@
-#include<iostream>
-#include<string.h>
-#include<conio.h>
+
 using namespace std;
 class DOB{
 	private:
